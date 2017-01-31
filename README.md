@@ -1,0 +1,1 @@
+Fault severity in cell towers were predicted given multiple different log files. Categorical variables were converted to dummies and model was fit to a classification algorithm. Repo contains all log files and a Jupyter notebook with model.
