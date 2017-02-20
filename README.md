@@ -1,9 +1,8 @@
-Fault severity in cell towers were predicted given multiple different log files. Categorical variables were converted to dummies and model was fit to a classification algorithm. Repo contains all log files and a Jupyter notebook with model.
 # Determining Fault Severity
 
 ### Objective
 
-Predicts the fault severity given multiple log files. 
+Predicts the fault severity given multiple log files. Convert categorical variables to dummies and classify fault severity using the given features. 
 
 ### Code
 
